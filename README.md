@@ -15,3 +15,16 @@
   * http://old.kv.by/index2008472107.htm
 * АПС - автоматизированная подсистема
 * КПС - комплекс программных средств
+ 
+## УП "ВЦ Мингорисполкома"
+
+* [Матвей Брагинский](https://www.facebook.com/matveibrag)
+  * http://www.stratoplan.ru/pm/case.html?fb_action_ids=726770834051072&fb_action_types=og.comments
+  * http://www.cnews.ru/reviews/index.shtml?2011/05/31/442085
+* https://companies.dev.by/vts-mingorispolkoma
+
+## Минскгоринфосервис
+
+* http://pravo.levonevsky.org/bazaby11/region41/text057.htm
+* http://info.minsk.by/
+* http://minsk.gov.by/share/anons/tnd_20051018_1.shtml
