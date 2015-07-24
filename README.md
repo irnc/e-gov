@@ -1,6 +1,6 @@
 # e-gov
 
-* https://github.com/irnc/trade-register
+* https://github.com/irnc/registers
 * Автоматизированная подсистема "Транзит Таможенного союза" (АПС ТТС)
   * http://www.belgruz.by/infocenter/news-275.html
 * КПС РСКАТ и КПС ВГК
