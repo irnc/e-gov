@@ -11,3 +11,4 @@
 * http://brest-bsmp.by/filial-ssmp/27-kak-pravilno-vyzvat-skoruyu-medicinskuyu-pomosch.html
 * http://www.medvestnik.by/ru/issues/a_11558.html
 * http://s13.ru/archives/73884
+* http://www.pich.by/ApplicationsDetails.aspx?ApplicationID=101
