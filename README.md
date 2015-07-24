@@ -12,6 +12,7 @@
 ## Термины
 
 * http://philosoft.ru/gost34asconcept.zhtml
+  * http://www.prj-exp.ru/gost-19
   * http://old.kv.by/index2008472107.htm
 * АПС - автоматизированная подсистема
 * КПС - комплекс программных средств
